@@ -1,4 +1,4 @@
-# Project: Daily Work Planner
+# Daily Work Planner App (Microsoft Hackathon 2024)
 
 ## Overview
 Daily Work Planner is an innovative application designed to streamline the daily workflow of enterprise users by delivering a tailored work plan directly in Microsoft Teams. The application seamlessly integrates meetings, tasks, and reminders into one convenient interface, making it easier to stay organized and focused. By leveraging technologies such as Microsoft Graph, AI, Teams SDK, and Power Automate, Daily Work Planner helps users manage their workday efficiently while promoting consistent engagement with Microsoft Teams.
